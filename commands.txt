@@ -1,0 +1,7 @@
+# To install apache-airflow in pycharm, run this in terminal
+pip install "apache-airflow==1.10.14"
+
+# To up docker containers
+docker compose up
+
+
